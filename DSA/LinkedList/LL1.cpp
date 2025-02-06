@@ -1,3 +1,9 @@
+//Implementation and Traversal of the LinkedList
+//Time Complexity: O(n)
+//Space Complexity: O(n)
+//Auxiliary Space: O(1)
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
